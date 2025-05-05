@@ -1,0 +1,6 @@
+database:
+  path: "data/feedback.db"
+
+search:
+  endpoint: "http://localhost:8000/search"
+  timeout: 5
